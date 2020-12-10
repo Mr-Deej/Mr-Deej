@@ -12,6 +12,3 @@ I'm Deej and I create Plugins, Servers, Websites, & Draw.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Deej&count_private=true&show_icons=true&theme=cobalt" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Deej&theme=dark&layout=compact&langs_count=6" /> !--->
 </div>
-<div align="right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Deej&theme=cobalt&layout=compact&langs_count=2" />
-</div>
