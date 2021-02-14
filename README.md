@@ -12,5 +12,5 @@ I'm Deej and I create Plugins, Servers, Websites, & Draw.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Deej" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Deej&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Deej&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
