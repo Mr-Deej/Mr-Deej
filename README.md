@@ -10,6 +10,5 @@ I'm Deej and I create Plugins, Servers, Websites, & Draw.
 ### Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Deej&count_private=true&show_icons=true&theme=dracula&bg_color=-45deg,282A36,3D3344" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Deej&theme=dracula&bg_color=-45deg,282A36,3D3344&layout=compact&langs_count=6&exclude_repo=riari.dev,laravel-forum-frontend,dailies,vuepress-api-test,arvale.world,drf-vue,tron-legacy-atom,rna-guild.net" />
 </div>
 
