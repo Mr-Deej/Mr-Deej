@@ -4,7 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mr-Deej" alt="deej's Profile Views" /><br><a href="https://dev.to/#"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deej's DEV Profile" height="30" width="30"></a> </p>
 <p>You might know me from various discords!
 I usually work on the following stuff: </p>
-[SouthHollowMC](https://github.com/South-Hollow) - A a smalll minecraft community server with in house minigames and features.
+
+[SouthHollowMC](https://github.com/South-Hollow) - A a small minecraft community server with in house minigames and features.
+
 ⚡ Fun fact: I hardly sleep, most of my commits are between 2am-5am 
 😄 Pronouns: he/him  
 📫 How to reach me: [SouthHollow Discord](https://discord.gg/jtZprD5) or Twitter [@TheOnlineWorld](https://twitter.com/theonlineworld2)
