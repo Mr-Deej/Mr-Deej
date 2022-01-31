@@ -5,8 +5,8 @@
 <p>You might know me from various discords!
 I usually work on the following stuff: </p>
 
-[SouthHollowMC](https://github.com/South-Hollow) - A a small minecraft community server with in house minigames and features.
-[Medieval-Factions](https://github.com/dmccoystephenson/Medieval-Factions) - is a system of mechanics that allows for the simulation of sovereign nations in Minecraft.
+<p>[SouthHollowMC](https://github.com/South-Hollow) - A a small minecraft community server with in house minigames and features.</p>
+<p>[Medieval-Factions](https://github.com/dmccoystephenson/Medieval-Factions) - is a system of mechanics that allows for the simulation of sovereign nations in Minecraft.</p>
 And other various other open source projects
 
 ⚡ Fun fact: I hardly sleep, most of my commits are between 2am-5am 
